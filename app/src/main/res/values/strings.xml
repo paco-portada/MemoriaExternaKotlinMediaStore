@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memoria Externa en Kotlin</string>
+    <string name="texto">una prueba de escritura en memoria externa</string>
+    <string name="botonEscribir">Guardar</string>
+    <string name="botonLeer">Leer</string>
+    <string name="propiedades">Propiedades del fichero</string>
+</resources>
